@@ -26,6 +26,8 @@
 <a href="https://fb.com/https://www.facebook.com/share/1fub1z2h89/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1fub1z2h89/" height="30" width="40" /></a>
 <a href="https://instagram.com/muhammad.ali.haris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammad.ali.haris" height="30" width="40" /></a>
 <a href="https://medium.com/@aliharis1801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aliharis1801" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/aliharis1801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aliharis1801" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aliharis1801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aliharis1801" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
