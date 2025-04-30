@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Haris</h1>
-<h3 align="center">Building Intelligent Systems | AI & Computer Vision Enthusiast | Tech Innovator</h3>
+<h3 align="center">Building Intelligent Systems | AI/ML & Computer Vision Enthusiast | Tech Innovator</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -8,8 +8,6 @@
 - 🔭 I’m currently working on **🔍 AI-based Document Verification with NFTs & Blockchain**
 
 - 🌱 I’m currently learning **YOLOv8, Python (TensorFlow & PyTorch), and Blockchain Integration**
-
-- 👯 I’m looking to collaborate on **Deep Learning & AI Projects**
 
 - 🤝 I’m looking for help with **Blockchain Integration in AI-based document verification**
 
@@ -41,7 +39,4 @@
 
 ## 🚀 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aliharis007&layout=compact&theme=dark)
-
-## 🔥 GitHub Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aliharis007&theme=dark)
 
