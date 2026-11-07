@@ -212,9 +212,9 @@ A collaborative-filtering recommendation engine using **KNN and similarity searc
 
 **Associate Consultant**
 
-`2026 – Present`
+`August 2026 – Present`
 
-Currently beginning my professional journey in enterprise technology and consulting at one of Pakistan's leading technology organizations.
+Working as an Associate Consultant in Data Engineering at Systems Limited, contributing to enterprise data engineering initiatives involving Microsoft Fabric, Azure Data Factory (ADF), and Dataverse. Working on lakehouse-based data solutions, developing and optimizing PySpark transformations, converting SQL-based processing logic into scalable Spark workloads, and implementing data quality checks across lakehouse layers. Also involved in designing data integration workflows, handling Dataverse entities, lookup relationships, GUID mappings, and option-set transformations to support reliable bidirectional data synchronization and enterprise data integration.
 
 ---
 
