@@ -3,7 +3,7 @@
 ### Data Engineer • Databricks & Microsoft Certified • Cloud-Native Systems
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems+%F0%9F%A4%96;AI%2FML+%7C+Generative+AI+%7C+MLOps;LLM-Powered+Applications+%7C+Computer+Vision;Turning+AI+Research+into+Production+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Building+Intelligent+Data+Systems+%F0%9F%A4%96;AI%2FML+%7C+Generative+AI+%7C+MLOps;LLM-Powered+Applications+%7C+Generative+AI;Enterprise+Data+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
