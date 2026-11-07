@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ali Haris
 
-### AI/ML Engineer • Generative AI • MLOps • Cloud-Native Systems
+### Data Engineer • Databricks & Microsoft Certified • Cloud-Native Systems
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems+%F0%9F%A4%96;AI%2FML+%7C+Generative+AI+%7C+MLOps;LLM-Powered+Applications+%7C+Computer+Vision;Turning+AI+Research+into+Production+Systems+%F0%9F%9A%80" alt="Typing SVG" />
@@ -25,13 +25,13 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Computer Science graduate from FAST NUCES**, a **Gold Medalist**, and an AI/ML enthusiast focused on building **production-grade intelligent systems**.
-
-Currently, I'm working as an **Associate Consultant at Systems Limited**, where I'm beginning my journey in enterprise technology and consulting.
+I'm working as a **Data Engineer as Systems Limited**, a **Gold Medalist**, and an AI/ML enthusiast focused on building **production-grade intelligent data systems**.
 
 My technical interests sit at the intersection of:
 
 ```text
+Data Engineering
+        +
 Artificial Intelligence
         +
 Machine Learning
